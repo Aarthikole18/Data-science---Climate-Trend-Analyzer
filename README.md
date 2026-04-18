@@ -44,3 +44,8 @@ Climate-Trend-Analyzer/
 ## ▶️ How to Run
 ```bash
 python main.py
+
+## 📊 Output
+
+### Climate Trend Analysis
+![Trend Graph] (images/trend_graph.png)
