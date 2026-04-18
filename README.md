@@ -49,3 +49,6 @@ python main.py
 
 ### Climate Trend Analysis
 ![Trend Graph] (images/trend_graph.png)
+
+## 🌐 Live Dashboard (Local)
+Run the Streamlit app:  Local URL: http://localhost:8503
